@@ -1,0 +1,5 @@
+{{#user}}
+My name is Himanshu Kori.
+Here are my skills : html, Css , Javascript, C, C++, Java . 
+My email id is himanshukori947@gmail.com.
+ {{/user}}
